@@ -24,7 +24,7 @@
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="667" alt="image" src="https://github.com/jckjr21/azure-network-protocols/assets/142818746/536c8715-f370-403b-b69f-b2b67ba32fb6">
 </p>
 <p>
 
